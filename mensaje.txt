@@ -1,1 +1,2 @@
-Hola, este es el mensaje desde rama2
+Desde rama1: Hola, este es el mensaje desde rama1.
+Desde rama2: Hola, este es el mensaje desde rama2.
